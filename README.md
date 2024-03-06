@@ -28,3 +28,15 @@
 |   18   | [조건에 부합하는 중고거래 댓글 조회하기](https://school.programmers.co.kr/learn/courses/30/lessons/164673)    | [SQL](https://github.com/jinseoplee/Programmers-SQL-Solutions/commit/c98dccb872845a31402761dd8481768cafcd5a2e) |
 |   19   | [평균 일일 대여 요금 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/151136)                | [SQL](https://github.com/jinseoplee/Programmers-SQL-Solutions/commit/3e0e5438578954cad114fa80c7128c6bcda839f8) |
 |   20   | [흉부외과 또는 일반외과 의사 목록 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/132203) | [SQL](https://github.com/jinseoplee/Programmers-SQL-Solutions/commit/f735faf1651e419c1ace8e4678627502a94aab6e) |
+
+## SUM, MAX, MIN
+
+| Number | Challenges                                                                                                    |                                                   Solutions                                                    |
+| :----: | ------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------: |
+|   1    | [가격이 제일 비싼 식품의 정보 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/131115)     | [SQL](https://github.com/jinseoplee/Programmers-SQL-Solutions/commit/8e3bb84f0a4fdf12251af2f596c819f4ee711203) |
+|   2    | [가장 비싼 상품 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/131697)                     | [SQL](https://github.com/jinseoplee/Programmers-SQL-Solutions/commit/2e50edc2a590e8045380aa2557ad659c1cd0175e) |
+|   3    | [동물 수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59406)                             | [SQL](https://github.com/jinseoplee/Programmers-SQL-Solutions/commit/685934c60871584e5f7a43dfddcf47b1c3058a61) |
+|   4    | [조건에 맞는 아이템들의 가격의 총합 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/273709) | [SQL](https://github.com/jinseoplee/Programmers-SQL-Solutions/commit/26ca7502f9497a8631efe7a3a472ebe0014d86a9) |
+|   5    | [중복 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/59408)                              | [SQL](https://github.com/jinseoplee/Programmers-SQL-Solutions/commit/5d15bb7ac19e2976ce2c78d811055c28a0cec70d) |
+|   6    | [최댓값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59415)                              | [SQL](https://github.com/jinseoplee/Programmers-SQL-Solutions/commit/2dc8105fd553f3537233615f2a91a0519efbe65f) |
+|   7    | [최솟값 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/59038)                              | [SQL](https://github.com/jinseoplee/Programmers-SQL-Solutions/commit/e97f4ee99f3a7465f3bd2f2a1c6f6cb2426ff808) |
